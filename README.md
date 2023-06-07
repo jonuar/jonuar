@@ -1,4 +1,4 @@
-### Salutations 👋, my name is Joshua
+### 👋 Salutations, my name is Joshua
 I am a developer interested in all things web
 
 
