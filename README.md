@@ -1,10 +1,11 @@
-## Salutations 👋, my name is **Joshua**
-I am a developer interested in all things web.
+# Salutations 👋, my name is **Joshua**
 
 
 ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
-### Skills: 
+### I am a developer interested in all things web.
+
+## Skills: 
 
 <div align="left">
 	<table>
