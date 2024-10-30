@@ -1,9 +1,10 @@
-  ## Salutations 👋, I'm **Joshua**
+  
 
 <div align="center">
   
   ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
+  ## Salutations 👋, I'm **Joshua**
   ### I am a developer interested in all things web.
   
 </div>
