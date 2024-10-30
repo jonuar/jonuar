@@ -1,6 +1,6 @@
-<div align="center">
+  ## Salutations 👋, I'm **Joshua**
 
-  ## Salutations 👋, my name is **Joshua**
+<div align="center">
   
   ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
