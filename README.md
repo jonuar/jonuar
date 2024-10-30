@@ -1,6 +1,7 @@
   
 
 <div align="center">
+  
   ## Salutations 👋, I'm **Joshua**
   ## I am a developer interested in all things web.
   
