@@ -1,13 +1,9 @@
   
 <div align="center">
   
-  ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
-
-</div>
-<div align="center">
-  
   # Salutations 👋, I'm **Joshua**
   I am a developer interested in all things web.
+
   
   ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
