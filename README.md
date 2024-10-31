@@ -8,8 +8,10 @@
   ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
 </div>
+
 &nbsp;
 &nbsp;
+
 ## Skills: 
 
 <div align="left">
