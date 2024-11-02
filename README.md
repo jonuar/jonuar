@@ -3,6 +3,8 @@
   
   # Salutations 👋, I'm **Joshua**
   I am a developer interested in all things web.
+  
+&nbsp;
 
   
   ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
