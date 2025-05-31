@@ -2,7 +2,7 @@
 <div align="center">
   
   # Salutations 👋, I'm **Joshua**
-  I am a developer interested in all things web.
+  I am a developer interested in all things web. If it's coded, I'm probably curious about it. My natural habitat includes keyboards, caffeine, and the occasional debugging session that turns into an existential crisis.
   
 &nbsp;
 
