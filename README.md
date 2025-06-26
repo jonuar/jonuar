@@ -56,9 +56,9 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=FF7139" />
   </a>
 </p>
--->
----
 
+---
+-->
 ### 📊 GitHub Stats
 
 <p align="center">
