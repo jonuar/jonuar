@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx&logoColor=009639" />
   <img src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/WordPress-000?style=flat&logo=wordpress&logoColor=21759B" />
