@@ -76,6 +76,29 @@
 
 ---
 -->
+
+📚 Currently Learning
+<table align="center"> 
+  <tr> 
+    <th>Frontend</th> 
+    <th>Backend</th> 
+    <th>Tools & DB</th> 
+  </tr> 
+  <tr> 
+    <td align="center"> 
+      <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /><br/> 
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" /> </td> 
+    <td align="center"> 
+      <img src="https://img.shields.io/badge/Web3.js-000?style=flat&logo=web3.js&logoColor=F16822" />
+    </td> <td align="center"> 
+      <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql&logoColor=E10098" /><br/> 
+      <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> 
+    </td> 
+  </tr> 
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
