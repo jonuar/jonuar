@@ -37,16 +37,16 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [**LinkBoard**](https://github.com/yourusername/linkboard): Minimalist landing pages for creators, with multi-crypto support.
-- 🧠 [**MindBytes**](https://github.com/yourusername/mindbytes): Micro-blogging platform for sharing dev thoughts.
-- 🛠️ [**StackForge**](https://github.com/yourusername/stackforge): A full-stack starter kit with Flask + Vue + MongoDB.
+- 🔗 [**DonaCrypto**](https://github.com/jonuar/Donacrypto): P2P donation platform for creators with cryptocurrency wallets.
+- 🧠 [**One More Community Platform**](https://github.com/jonuar/Community-platform): Web application that manages users, authentication, and admin dashboards for a community.
 
 ---
 
+<!--
 ### 📬 Contact & Links
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/ " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:your@email.com">
@@ -56,12 +56,12 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=FF7139" />
   </a>
 </p>
-
+-->
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonuar&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonuar&layout=compact&theme=radical" height="150" />
 </p>
