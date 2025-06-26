@@ -37,9 +37,12 @@
       <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" /><br/> 
       <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" /><br/> 
       <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx&logoColor=009639" /><br/>
+      <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=009639" />
     </td>
-    <td align="left"> <img src="https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx&logoColor=009639" /><br/> 
+    <td align="left"> 
       <img src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E" /><br/> 
       <img src="https://img.shields.io/badge/WordPress-000?style=flat&logo=wordpress&logoColor=21759B" /><br/> 
       <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" /> 
