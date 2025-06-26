@@ -21,7 +21,7 @@
   <tr> 
     <th>🌐 Frontend</th>
     <th>🧪 Backend</th> 
-    <th>🛠️ Miscellaneous</th> 
+    <th>🛠️ Tech & DB</th> 
   </tr> 
   <tr> 
     <td align="left"> 
@@ -29,23 +29,26 @@
       <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=1572B6" /><br/> 
       <img src="https://img.shields.io/badge/Sass-000?style=flat&logo=sass&logoColor=CC6699" /><br/> 
       <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwind-css&logoColor=06B6D4" /><br/> 
-      <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" /><br/> 
       <img src="https://img.shields.io/badge/Vue.js-000?style=flat&logo=vue.js&logoColor=4FC08D" /> 
     </td> 
     <td align="left"> 
       <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=339933" /><br/> 
-      <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" /><br/> 
-      <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" /><br/> 
+      <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" /><br/>  
       <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx&logoColor=009639" /><br/>
       <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=009639" />
     </td>
-    <td align="left"> 
+    <td align="left">
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" /><br/>
+      <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" /><br/>
       <img src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E" /><br/> 
       <img src="https://img.shields.io/badge/WordPress-000?style=flat&logo=wordpress&logoColor=21759B" /><br/> 
-      <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" /> 
+      <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" /> <br/>
+      <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=FCC624" /> <br/>
+      <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=FCC624" /> <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> 
     </td> 
   </tr> 
 </table>
@@ -76,7 +79,7 @@
 
 ---
 -->
-
+<!--
 📚 Currently Learning
 <table align="center"> 
   <tr> 
@@ -98,7 +101,7 @@
 </table>
 
 ---
-
+-->
 ### 📊 GitHub Stats
 
 <p align="center">
