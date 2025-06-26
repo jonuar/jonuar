@@ -1,54 +1,35 @@
-  
 <div align="center">
-  
-  # Salutations 👋, I'm **Joshua**
-  I am a developer interested in all things web. If it's coded, I'm probably curious about it. My natural habitat includes keyboards, caffeine, and the occasional debugging session that turns into an existential crisis.
-  
-&nbsp;
 
-  
-  ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
+# 👋 Salutations, I'm **Joshua**
+
+I'm a developer passionate about all things web.  
+If it's coded, I'm probably curious about it.  
+My natural habitat includes keyboards, caffeine,  
+and the occasional debugging session that turns into an existential crisis.
+
+![Coding gif](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
 </div>
 
-&nbsp;
-&nbsp;
+---
 
-### I can build stuff with: 
+### 🛠️ I can build stuff with:
 
 <div align="center">
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> -->
-  <img width="12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <!--
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <!-- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+  <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwind-css&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Sass-000?style=flat&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Vue.js-000?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/WordPress-000?style=flat&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" />
+
 </div>
