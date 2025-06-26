@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx&logoColor=009639" /><br/>
+      <img src="https://img.shields.io/badge/Apache-000?style=flat&logo=apache&logoColor=009639" /><br/>
       <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=009639" />
     </td>
     <td align="left">
