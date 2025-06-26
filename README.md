@@ -47,6 +47,7 @@
       <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" /> <br/>
       <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=FCC624" /> <br/>
       <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=FCC624" /> <br/>
+      <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=FCC624" /> <br/>
       <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> 
     </td> 
   </tr> 
