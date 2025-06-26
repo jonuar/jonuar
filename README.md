@@ -1,13 +1,12 @@
 <div align="center">
+  
+  # Salutations 👋, I'm **Joshua**
+  I am a developer interested in all things web. If it's coded, I'm probably curious about it. My natural habitat includes keyboards, caffeine, and the occasional debugging session that turns into an existential crisis.
+  
+&nbsp;
 
-# 👋 Salutations, I'm **Joshua**
-
-I'm a developer passionate about all things web.  
-If it's coded, I'm probably curious about it.  
-My natural habitat includes keyboards, caffeine,  
-and the occasional debugging session that turns into an existential crisis.
-
-![Coding gif](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
+  
+  ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
 </div>
 
@@ -33,3 +32,36 @@ and the occasional debugging session that turns into an existential crisis.
   <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" />
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔗 [**LinkBoard**](https://github.com/yourusername/linkboard): Minimalist landing pages for creators, with multi-crypto support.
+- 🧠 [**MindBytes**](https://github.com/yourusername/mindbytes): Micro-blogging platform for sharing dev thoughts.
+- 🛠️ [**StackForge**](https://github.com/yourusername/stackforge): A full-stack starter kit with Flask + Vue + MongoDB.
+
+---
+
+### 📬 Contact & Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="https://yourwebsite.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=FF7139" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
+</p>
