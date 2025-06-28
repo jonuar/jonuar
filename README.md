@@ -57,7 +57,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [**DonaCrypto**](https://github.com/jonuar/Donacrypto): P2P donation platform for creators with cryptocurrency wallets.
+- 🔗 [**DonaCrypto**](https://donacrypto.onrender.com/): P2P donation platform for creators with cryptocurrency wallets.
 - 🧠 [**One More Community Platform**](https://github.com/jonuar/Community-platform): Web application that manages users, authentication, and admin dashboards for a community.
 
 ---
