@@ -96,7 +96,7 @@
       <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
     </td> 
     <td align="left"> 
-      <img src="https://img.shields.io/badge/SpringBoot-000?style=flat&logo=springboot&logoColor=F16822" />
+      <img src="https://img.shields.io/badge/SpringBoot-000?style=flat&logo=springboot&logoColor=F16822" /><br/>
     </td>
     <td align="left"> 
       <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=F16822" /><br/>
