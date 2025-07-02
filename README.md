@@ -100,6 +100,7 @@
     </td>
     <td align="left"> 
       <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=007396" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /><br/>
 <!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
   </tr> 
