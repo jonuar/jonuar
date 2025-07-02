@@ -95,7 +95,7 @@
   </tr> 
   <tr> 
     <td align="left"> 
-      <img src="https://img.shields.io/badge/Angular.js-000?style=flat&logo=angular&logoColor=3178C6" /><br/> 
+      <img src="https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=3178C6" /><br/> 
       <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
     </td> 
     <td align="left"> 
