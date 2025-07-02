@@ -57,10 +57,16 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [**DonaCrypto**](https://donacrypto.onrender.com/): P2P donation platform for creators with cryptocurrency wallets.
-- 🧠 [**One More Community Platform**](https://github.com/jonuar/Community-platform): Web application that manages users, authentication, and admin dashboards for a community.
+-  [**DonaCrypto**](https://donacrypto.onrender.com/): P2P donation platform for creators with cryptocurrency wallets.
+-  [**One More Community Platform**](https://github.com/jonuar/Community-platform): Web application that manages users, authentication, and admin dashboards for a community.
 
 ---
+
+---
+
+### ⚒️ Working on
+
+-  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
 
 <!--
 ### 📬 Contact & Links
@@ -79,23 +85,25 @@
 
 ---
 -->
-<!--
+<!-- --> 
 📚 Currently Learning
 <table align="center"> 
   <tr> 
     <th>Frontend</th> 
     <th>Backend</th> 
-    <th>Tools & DB</th> 
+    <th>Tools & DB</th>
   </tr> 
   <tr> 
-    <td align="center"> 
-      <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /><br/> 
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" /> </td> 
-    <td align="center"> 
-      <img src="https://img.shields.io/badge/Web3.js-000?style=flat&logo=web3.js&logoColor=F16822" />
-    </td> <td align="center"> 
-      <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql&logoColor=E10098" /><br/> 
-      <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> 
+    <td align="left"> 
+      <img src="https://img.shields.io/badge/Angular.js-000?style=flat&logo=angular&logoColor=3178C6" /><br/> 
+      <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
+    </td> 
+    <td align="left"> 
+      <img src="https://img.shields.io/badge/SpringBoot-000?style=flat&logo=springboot&logoColor=F16822" />
+    </td>
+    <td align="left"> 
+      <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=F16822" /><br/>
+<!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
   </tr> 
 </table>
