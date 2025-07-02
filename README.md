@@ -62,8 +62,6 @@
 
 ---
 
----
-
 ### ⚒️ Working on
 
 -  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
@@ -82,10 +80,9 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=FF7139" />
   </a>
 </p>
-
+ -->
 ---
--->
-<!-- --> 
+ 
 📚 Currently Learning
 <table align="center"> 
   <tr> 
