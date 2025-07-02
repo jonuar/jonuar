@@ -99,7 +99,7 @@
       <img src="https://img.shields.io/badge/SpringBoot-000?style=flat&logo=springboot&logoColor=#6DB33F" /><br/>
     </td>
     <td align="left"> 
-      <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=FF1919" /><br/>
+      <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=007396" /><br/>
 <!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
   </tr> 
