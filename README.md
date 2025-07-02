@@ -19,9 +19,9 @@
 
 <table align="center"> 
   <tr> 
-    <th>🌐 Frontend</th>
-    <th>🧪 Backend</th> 
-    <th>🛠️ Tech & DB</th> 
+    <th>Frontend</th>
+    <th>Backend</th> 
+    <th>Tools/Techs</th> 
   </tr> 
   <tr> 
     <td align="left"> 
@@ -88,7 +88,7 @@
   <tr> 
     <th>Frontend</th> 
     <th>Backend</th> 
-    <th>Tools & DB</th>
+    <th>Tools/Techs</th>
   </tr> 
   <tr> 
     <td align="left"> 
