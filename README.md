@@ -83,7 +83,7 @@
  -->
 ---
  
-📚 Currently Learning
+### 📚 Currently Learning
 <table align="center"> 
   <tr> 
     <th>Frontend</th> 
@@ -106,7 +106,7 @@
 </table>
 
 ---
--->
+
 ### 📊 GitHub Stats
 
 <p align="center">
