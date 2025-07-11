@@ -110,8 +110,9 @@
 
 ### 📖 Reading
 
-<div align="left">
-  <p> **Designing Data-Intensive Applications by Martin Kleppmann </p> <br/>
+<div align="center">
+  <strong> Designing Data-Intensive Applications by Martin Kleppmann </strong> <br/>
+  <p> Martin Kleppmann </p> <br/>
   <img width="20%" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
 </div>
 
