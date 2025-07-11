@@ -110,8 +110,8 @@
 
 ### 📖 Reading
 
-<div align="center">
-  <p> **Designing Data-Intensive Applications: Big Ideas Behind Reliable, Scalable, and Maintainable Systems** </p> <br/>
+<div align="left">
+  <p> **Designing Data-Intensive Applications by Martin Kleppmann </p> <br/>
   <img width="20%" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
 </div>
 
