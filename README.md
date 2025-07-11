@@ -110,12 +110,12 @@
 
 ### 📖 Reading
 
--  [**Designing Data-Intensive Applications: Big Ideas Behind Reliable, Scalable, and Maintainable Systems**]
-<img src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
+<div align="center">
+  <p> **Designing Data-Intensive Applications: Big Ideas Behind Reliable, Scalable, and Maintainable Systems** </p> <br/>
+  <img width="20%" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
+</div>
 
 ---
-
-
 
 ### 📊 GitHub Stats
 
