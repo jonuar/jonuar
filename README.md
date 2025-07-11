@@ -111,7 +111,7 @@
 ### 📖 Reading
 
 <div align="center">
-  <strong> Designing Data-Intensive Applications by Martin Kleppmann </strong> <br/>
+  <strong> Designing Data-Intensive Applications </strong> <br/>
   <p> Martin Kleppmann </p> <br/>
   <img width="20%" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
 </div>
