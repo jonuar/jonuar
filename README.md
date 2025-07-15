@@ -42,6 +42,7 @@
     <td align="left">
       <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" /><br/>
       <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" /><br/>
+      <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=3776AB" /><br/>
       <img src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E" /><br/> 
       <img src="https://img.shields.io/badge/WordPress-000?style=flat&logo=wordpress&logoColor=21759B" /><br/> 
       <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=FCC624" /> <br/>
