@@ -41,6 +41,7 @@
     </td>
     <td align="left">
       <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /><br/>
       <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" /><br/>
       <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=3776AB" /><br/>
       <img src="https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E" /><br/> 
@@ -100,7 +101,6 @@
       <img src="https://img.shields.io/badge/SpringBoot-000?style=flat&logo=springboot&logoColor=#6DB33F" /><br/>
     </td>
     <td align="left">
-      <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /><br/>
       <img src="https://img.shields.io/badge/Java-000?style=flat&logo=oracle&logoColor=007396" /><br/>      
 <!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
