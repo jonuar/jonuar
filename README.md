@@ -24,12 +24,13 @@
     <th>Tools/Techs</th> 
   </tr> 
   <tr> 
-    <td align="left"> 
+    <td align="left">
+      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=3)](https://skillicons.dev)
       <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=E34F26" /><br/> 
       <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=1572B6" /><br/> 
       <img src="https://img.shields.io/badge/Sass-000?style=flat&logo=sass&logoColor=CC6699" /><br/> 
       <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwind-css&logoColor=06B6D4" /><br/> 
-      <img src="https://img.shields.io/badge/Vue.js-000?style=flat&logo=vue.js&logoColor=4FC08D" /> 
+      <img src="https://img.shields.io/badge/Vue.js-000?style=flat&logo=vue.js&logoColor=4FC08D" />
     </td> 
     <td align="left"> 
       <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=339933" /><br/> 
