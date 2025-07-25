@@ -26,7 +26,7 @@
   <tr> 
     <td align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm&perline=3" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue&perline=2" />
       </a>
       <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=E34F26" /><br/> 
       <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=1572B6" /><br/> 
