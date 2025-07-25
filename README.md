@@ -25,7 +25,9 @@
   </tr> 
   <tr> 
     <td align="left">
-      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=3)](https://skillicons.dev)
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,wasm&perline=3" />
+      </a>
       <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=E34F26" /><br/> 
       <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=1572B6" /><br/> 
       <img src="https://img.shields.io/badge/Sass-000?style=flat&logo=sass&logoColor=CC6699" /><br/> 
