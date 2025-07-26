@@ -94,15 +94,21 @@
     <th>Tools/Techs</th>
   </tr> 
   <tr> 
-    <td align="left"> 
-      <img src="https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=FF1919" /><br/> 
+    <td align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular&perline=2" />
+      </a> <br/>
       <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
     </td> 
     <td align="left"> 
-      <img src="https://img.shields.io/badge/SpringBoot-000?style=flat&logo=springboot&logoColor=#6DB33F" /><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring&perline=2" />
+      </a> <br/>
     </td>
     <td align="left">
-      <img src="https://img.shields.io/badge/Java-000?style=flat&logo=oracle&logoColor=007396" /><br/>      
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java&perline=2" />
+      </a> <br/>  
 <!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
   </tr> 
