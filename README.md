@@ -26,12 +26,12 @@
   <tr> 
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue&perline=2" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,vue&perline=2" />
       </a>
     </td> 
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,django,nginx,apache,docker,express&perline=2" />
+        <img src="https://skillicons.dev/icons?i=flask,django,nginx,docker,express,apache&perline=2" />
       </a> <br/>
       <!-- <img src="https://img.shields.io/badge/Apache-000?style=flat&logo=apache&logoColor=009639" /><br/> -->
     </td>
