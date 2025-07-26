@@ -29,13 +29,17 @@
         <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue&perline=2" />
       </a>
     </td> 
-    <td align="left">
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flask,django,nginx,apache,docker,express&perline=2" />
       </a> <br/>
-      <img src="https://img.shields.io/badge/Apache-000?style=flat&logo=apache&logoColor=009639" /><br/>
+      <!-- <img src="https://img.shields.io/badge/Apache-000?style=flat&logo=apache&logoColor=009639" /><br/> -->
     </td>
-    <td align="left">
+    <td align="center">
+       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,figma,wordpress,linux,mysql,mongodb,git,postgres&perline=3" />
+      </a> <br/>
+      <!--
       <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /><br/>
       <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" /><br/>
@@ -47,6 +51,7 @@
       <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=FCC624" /> <br/>
       <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=FCC624" /> <br/>
       <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> 
+      -->
     </td> 
   </tr> 
 </table>
