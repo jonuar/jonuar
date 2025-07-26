@@ -32,7 +32,7 @@
     <td align="left">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flask,django,nginx,apache,docker,express&perline=2" />
-      </a>
+      </a> <br/>
       <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=339933" /><br/> 
       <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=white" /><br/>
