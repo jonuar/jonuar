@@ -37,7 +37,7 @@
     </td>
     <td align="center">
        <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,figma,wordpress,linux,mysql,mongodb,git,postgres&perline=3" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,figma,wordpress,linux,mysql,mongodb,git,postgres&perline=2" />
       </a> <br/>
       <!--
       <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" /><br/>
