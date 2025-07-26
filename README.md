@@ -94,18 +94,18 @@
     <th>Tools/Techs</th>
   </tr> 
   <tr> 
-    <td align="left">
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular&perline=2" />
       </a> <br/>
       <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
     </td> 
-    <td align="left"> 
+    <td align="center"> 
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=spring&perline=2" />
       </a> <br/>
     </td>
-    <td align="left">
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java&perline=2" />
       </a> <br/>  
