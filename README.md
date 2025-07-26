@@ -31,7 +31,7 @@
     </td> 
     <td align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,django,Nginx,Apache,Docker,express&perline=2" />
+        <img src="https://skillicons.dev/icons?i=flask,django,nginx,apache,docker,express&perline=2" />
       </a>
       <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=339933" /><br/> 
       <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" /><br/>
