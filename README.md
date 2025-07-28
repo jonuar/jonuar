@@ -26,7 +26,7 @@
   <tr> 
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,vue&perline=2" />
+        <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,vue&perline=2" />
       </a>
     </td> 
     <td align="center">
