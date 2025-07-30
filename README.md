@@ -119,7 +119,7 @@
 ### 📖 Reading
 
 <div align="center">
-  <strong> El Libro Negro del Programador: </strong> <br/> Cómo conseguir una carrera de éxito desarrollando software y cómo evitar los errores habituales <br/>
+  <strong> El Libro Negro del Programador </strong> <br/>
   <p> Rafael Gómez Blanes </p> <br/>
   <img width="20%" src="https://m.media-amazon.com/images/I/61IYQs-mEZL._SL1500_.jpg" /><br/>
 </div>
