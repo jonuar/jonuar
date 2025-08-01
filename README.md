@@ -115,7 +115,6 @@
 </table>
 
 ---
-
 ### 📖 Reading
 
 <div align="center">
@@ -123,7 +122,6 @@
   <p> Rafael Gómez Blanes </p> <br/>
   <img width="20%" src="https://m.media-amazon.com/images/I/61IYQs-mEZL._SL1500_.jpg" /><br/>
 </div>
-
 ---
 
 ### 📊 GitHub Stats
