@@ -106,9 +106,9 @@
       </a> <br/>
     </td>
     <td align="center">
-      <a href="https://skillicons.dev">
+<!--      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java&perline=2" />
-      </a> <br/>  
+      </a> <br/>   -->
 <!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
   </tr> 
