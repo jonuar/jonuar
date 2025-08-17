@@ -7,7 +7,6 @@
   </div>
   
 &nbsp;
-
   
   ![](https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif)
 
@@ -116,7 +115,6 @@
 
 ---
 ### 📖 Reading
-
 <div align="center">
   <strong> El Libro Negro del Programador </strong> <br/>
   <p> Rafael Gómez Blanes </p> <br/>
