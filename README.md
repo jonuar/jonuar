@@ -65,7 +65,6 @@
 ---
 
 ### ⚒️ Working on
-
 -  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
 
 <!--
