@@ -85,6 +85,7 @@
 ---
  
 ### 📚 Currently Learning
+
 <table align="center"> 
   <tr> 
     <th>Frontend</th> 
