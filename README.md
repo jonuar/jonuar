@@ -3,7 +3,7 @@
   # Salutations 👋
   
   <div align="left">
-  I am a developer interested in all things web. If it's coded, I'm probably curious about it. My natural habitat includes caffeine and the occasional debugging session that turns into an existential crisis.
+  I am a developer interested in all things **web**. If it's coded, I'm probably curious about it. My natural habitat includes caffeine and the occasional debugging session that turns into an existential crisis.
   </div>
   
 &nbsp;
