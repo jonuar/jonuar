@@ -118,7 +118,7 @@
 <div align="center">
   <strong> Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems </strong> <br/>
   <p> Martin  </p> <br/>
-  <img width="20%" src="https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif" /><br/>
+  <img width="20%" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
 </div>
 
 ---
