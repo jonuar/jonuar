@@ -116,9 +116,9 @@
 ---
 ### 📖 Reading
 <div align="center">
-  <strong> El Libro Negro del Programador </strong> <br/>
-  <p> Rafael Gómez Blanes </p> <br/>
-  <img width="20%" src="https://m.media-amazon.com/images/I/61IYQs-mEZL._SL1500_.jpg" /><br/>
+  <strong> Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems </strong> <br/>
+  <p> Martin  </p> <br/>
+  <img width="20%" src="https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif" /><br/>
 </div>
 
 ---
