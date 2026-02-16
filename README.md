@@ -101,7 +101,7 @@
     </td> 
     <td align="center"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring&perline=2" />
+        <img src="https://skillicons.dev/icons?i=fastapi&perline=2" />
       </a> <br/>
     </td>
     <td align="center">
