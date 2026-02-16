@@ -116,9 +116,9 @@
 ---
 ### 📖 Reading
 <div align="center">
-  <strong> Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems </strong> <br/>
-  <p> Martin Kleppmann </p> <br/>
-  <img width="20%" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" /><br/>
+  <strong> AI Engineering: Building Applications with Foundation Models </strong> <br/>
+  <p> Chip Huyen </p> <br/>
+  <img width="20%" src="https://m.media-amazon.com/images/I/815KH9GjFTL._SL1500_.jpg" /><br/>
 </div>
 
 ---
