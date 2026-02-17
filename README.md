@@ -95,18 +95,18 @@
   <tr> 
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=next&perline=2" />
+        <img src="https://skillicons.dev/icons?i=next&perline=2" alt="Next.js" />
       </a> <br/>
       <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
     </td> 
     <td align="center"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=fastapi&perline=2" />
+        <img src="https://skillicons.dev/icons?i=fastapi&perline=2" alt="FastApi" />
       </a> <br/>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java&perline=2" />
+        <img src="https://skillicons.dev/icons?i=java&perline=2" alt="Java" />
       </a> <br/> 
 <!--     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" /> -->
     </td> 
@@ -126,7 +126,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jonuar&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=jonuar&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D"  />
 </div>
 
   
