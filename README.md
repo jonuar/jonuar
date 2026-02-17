@@ -125,11 +125,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <div [![GitHub Streak](https://streak-stats.demolab.com?user=jonuar&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) />
+</div>
+
+  
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=jonuar&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonuar&layout=compact&theme=tokyonight" height="150" /> 
   -->
   
-  <div [![GitHub Streak](https://streak-stats.demolab.com?user=jonuar&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) />
-</p>
+  
