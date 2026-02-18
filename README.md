@@ -65,6 +65,7 @@
 ---
 
 ### ⚒️ Working on
+-  [**Discord-RPG-bot**](https://github.com/jonuar/Discord-RPG-bot): A Discord bot that turns the server into a mini-RPG.
 -  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
 
 <!--
