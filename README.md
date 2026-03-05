@@ -60,13 +60,15 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 ### 🚀 Featured Projects
 
 -  [**Discord-RPG-bot**](https://github.com/jonuar/Discord-RPG-bot): A Discord bot powered by AI that turns the server into a role‑play game.
+-  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
 -  [**DonaCrypto**](https://donacrypto.onrender.com/): P2P donation platform for creators with cryptocurrency wallets.
 -  [**One More Community Platform**](https://github.com/jonuar/Community-platform): Web application that manages users, authentication, and admin dashboards for a community.
 
 ---
 
 ### ⚒️ Working on
--  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
+-  [**DocuRAG**](https://github.com/jonuar/Community-platform): A RAG-powered app that turns technical documentation into a conversational experience.
+
 
 <!--
 ### 📬 Contact & Links
