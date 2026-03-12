@@ -67,7 +67,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 ---
 
 ### ⚒️ Working on
--  [**DocuRAG**](https://github.com/jonuar/Community-platform): A RAG-powered app that turns technical documentation into a conversational experience.
+-  [**DocuRAG**](https://github.com/jonuar/DocuRAG): A RAG-powered app that turns technical documentation into a conversational experience.
 
 
 <!--
