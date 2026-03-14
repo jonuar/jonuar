@@ -100,13 +100,13 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
   <tr> 
     <td align="center">
       <a href="https://skillicons.dev">
-         <!-- <img src="https://skillicons.dev/icons?i=next&perline=2" alt="Next.js" title="Next.js" /> -->
+         <img src="https://skillicons.dev/icons?i=react&perline=2" alt="React.js" title="React.js" />
       </a> <br/>
       <!-- <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" /> -->
     </td> 
     <td align="center"> 
       <a href="https://skillicons.dev">
-        <!-- <img src="https://skillicons.dev/icons?i=fastapi&perline=2" alt="FastApi" title="FastApi" /> -->
+        <img src="https://skillicons.dev/icons?i=kubernetes&perline=2" alt="Kubernetes" title="Kubernetes" />
       </a> <br/>
     </td>
     <td align="center">
