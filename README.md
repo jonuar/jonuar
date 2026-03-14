@@ -30,7 +30,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
     </td> 
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nginx,docker,express,apache&perline=2" />
+        <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nginx,docker,express,apache&perline=3" />
       </a> <br/>
       <!-- <img src="https://img.shields.io/badge/Apache-000?style=flat&logo=apache&logoColor=009639" /><br/> -->
     </td>
