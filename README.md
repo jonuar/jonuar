@@ -69,7 +69,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 ---
 
 ### ⚒️ Working on
-- [**Neurumi**](https://github.com/jonuar/NeurumiG): Tamagotchi-style artificial life sim with a neural network.
+- [**Neurumi**](https://github.com/jonuar/Neurumi): Tamagotchi-style artificial life sim with a neural network.
 
 
 <!--
