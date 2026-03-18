@@ -70,6 +70,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 
 ### ⚒️ Working on
 - [**Neurumi**](https://github.com/jonuar/Neurumi): Tamagotchi-style artificial life sim with a neural network.
+- [**ML_Necropsy**](https://github.com/jonuar/ML_Necropsy): Automated post-mortem analysis for ML models in production.
 
 
 <!--
