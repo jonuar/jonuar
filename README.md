@@ -12,6 +12,13 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 
 </div>
 
+
+<div align="center">
+  <a href= "https://joshua-web-portfolio.vercel.app/">
+    <p>🌐 <strong>Check my portfolio</strong> 🌐</p>
+  </a>
+</div>
+
 ---
 
 ### 🛠️ I can build with:
