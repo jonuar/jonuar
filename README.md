@@ -77,6 +77,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 
 ### ⚒️ Working on
 - [**LexRAG**](https://github.com/jonuar/lexRAG): LexRAG is a production-ready RAG pipeline designed for legal and intellectual property documents.
+- [**HRDocRAG**](https://github.com/jonuar/HRDocRAG): HRDocRAG is a AI-powered Q&A system for HR document libraries.
 - [**Neurumi**](https://github.com/jonuar/Neurumi): Tamagotchi-style artificial life sim with a neural network.
 - [**ML_Necropsy**](https://github.com/jonuar/ML_Necropsy): Automated post-mortem analysis for ML models in production.
 
