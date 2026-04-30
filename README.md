@@ -66,6 +66,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 
 ### 🚀 Featured Projects
 
+-  [**ContentAgentOS**](https://github.com/jonuar/ContentAgentOS): AI pipeline orchestrating agents to generate production‑grade technical content.
 -  [**DocuRAG**](https://github.com/jonuar/DocuRAG): A RAG-powered app that turns technical documentation into a conversational experience.
 -  [**Discord-RPG-bot**](https://github.com/jonuar/Discord-RPG-bot): A Discord bot powered by AI that turns the server into a role‑play game.
 -  [**Appointly**](https://github.com/jonuar/Appointly): A lightweight appointment booking app.
