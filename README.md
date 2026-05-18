@@ -14,7 +14,7 @@ I am a developer interested in all things <strong>web</strong> and also deeply c
 
 
 <div align="center">
-  <a href= "https://joshua-web-portfolio.vercel.app/">
+  <a href= "https://www.jonuar.org/">
     <p>🌐 <strong>Check out my portfolio</strong> 🌐</p>
   </a>
 </div>
